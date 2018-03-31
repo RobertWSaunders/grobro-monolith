@@ -1,11 +1,9 @@
-# hop-monolith
+# grobro-monolith
 
-![CircleCI](https://circleci.com/gh/hoptime/hop-monolith.svg?style=svg&circle-token=0621e66291817711447031ede3acd2c1266c4d47)
+A connected growing experience made at HackPrinceton Spring 2018! :sunflower: :cherry_blossom:
 
-The server backend and web client for Hop! More documentation to come.
+The server backend and web client for grobro! More documentation to come.
 
-http://graphql.org/learn/queries/#mutations
-s
 ## Configuration
 
 For development this project uses `dotenv` to allow you tp specify environment variables in a static file.
