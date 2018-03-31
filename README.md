@@ -33,6 +33,6 @@ npm run client-dev
 # build the front end for production
 npm run client-prod
 
-# test the server code (lints code, checks for security vulnerabilities in dependencies and outdated dependencies)
+# test the server code (lints code)
 npm run test
 ```
